@@ -1,0 +1,1 @@
+Qua kiểm thử, với 2 trường hợp khách Gold và khách thường, hệ thống đều tính sai tổng tiền. Cụ thể, đơn 2 ly khách Gold cho kết quả thực tế 64.800 VNĐ thay vì 97.200 VNĐ, còn khách thường cho 72.000 VNĐ thay vì 108.000 VNĐ. Điều này cho thấy công thức tính giá đang cho ra kết quả thấp hơn mong đợi.
